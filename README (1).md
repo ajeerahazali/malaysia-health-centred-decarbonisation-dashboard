@@ -16,10 +16,9 @@ Is Malaysia's energy transition actually accounting for health, or just carbon a
 ## Dashboard
 
 **Page 1 — The Problem**
-![The Problem page](screenshots/the-problem.png)
-
+![The Problem page](the-problem.png)
 **Page 2 — The Strategy**
-![The Strategy page](screenshots/the strategy.png)
+![The Strategy page](the-strategy.png)
 
 ## Stakeholder Engagement Matrix
 
