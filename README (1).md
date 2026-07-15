@@ -17,6 +17,7 @@ Is Malaysia's energy transition actually accounting for health, or just carbon a
 
 **Page 1 — The Problem**
 ![The Problem page](the-problem.png)
+
 **Page 2 — The Strategy**
 ![The Strategy page](the-strategy.png)
 
