@@ -23,7 +23,7 @@ Is Malaysia's energy transition actually accounting for health, or just carbon a
 
 ## Stakeholder Engagement Matrix
 
-Five institutions — spanning government, industry and civil society are mapped to Malaysia's National Planetary Health Action Plan (NPHAP) Key Result Areas. Influence and alignment are scored using a methodology adapted from Mendelow's Power-Interest framework, with each classification grounded in a documented public position or precedent rather than assumption. Full sourcing in [docs/sources.md](docs/sources.md).
+Five institutions — spanning government, industry and civil society are mapped to Malaysia's National Planetary Health Action Plan (NPHAP) Key Result Areas. Influence and alignment are scored using a methodology adapted from Mendelow's Power-Interest framework, with each classification grounded in a documented public position or precedent rather than assumption. Full sourcing in [sources.md](sources.md).
 
 ## Data Sources
 
@@ -38,7 +38,7 @@ Five institutions — spanning government, industry and civil society are mapped
 - TNB Sustainability Report, 2024
 - Klima Action Malaysia (KAMY), NETR analysis, 2023
 
-Full citations, including direct source links, are listed in [docs/sources.md](docs/sources.md).
+Full citations, including direct source links, are listed in [docs/sources.md](sources.md).
 
 ## Tools
 
