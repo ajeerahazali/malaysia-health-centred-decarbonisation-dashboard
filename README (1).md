@@ -38,7 +38,7 @@ Five institutions — spanning government, industry and civil society are mapped
 - TNB Sustainability Report, 2024
 - Klima Action Malaysia (KAMY), NETR analysis, 2023
 
-Full citations, including direct source links, are listed in [docs/sources.md](sources.md).
+Full citations, including direct source links, are listed in [sources.md](sources.md).
 
 ## Tools
 
