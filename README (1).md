@@ -1,6 +1,6 @@
 # Malaysia Health-Centred Decarbonisation Dashboard
 
-An interactive Power BI analysis examining the gap between Malaysia's energy transition trajectory and its public health outcomes — built to identify where national energy policy and planetary health policy are, and aren't, currently aligned.
+An interactive Power BI analysis examining the gap between Malaysia's energy transition trajectory and its public health outcomes; built to identify where national energy policy and planetary health policy are and are not currently aligned.
 
 ## The Question
 
@@ -9,21 +9,21 @@ Is Malaysia's energy transition actually accounting for health, or just carbon a
 ## Key Findings
 
 - Malaysia's ambient air quality has breached WHO's 2021 annual safety guideline (5 µg/m³ PM2.5) every year on record, 2018–2022.
-- Sulfur dioxide — the pollutant most directly linked to coal combustion — remains within Malaysia's own regulatory limit, but has trended upward since 2020, even as PM2.5 stabilised.
-- Malaysia reached 32% renewable installed capacity in 2025, slightly ahead of its own 31% NETR target — genuine, on-schedule progress.
-- Even so, coal is not fully phased out until 2044, and full renewable capacity (70%) is not targeted until 2050 — meaning the air quality burden documented above will persist for two more decades without an accelerated pace.
+- Sulfur dioxide (SO₂): the pollutant most directly linked to coal combustion remains within Malaysia's own regulatory limit but has trended upward since 2020, even as PM2.5 stabilised.
+- Malaysia reached 32% renewable installed capacity in 2025, slightly ahead of its own 31% NETR target; genuine, on-schedule progress.
+- Even so, coal is not fully phased out until 2044, and full renewable capacity (70%) is not targeted until 2050. This means the air quality burden documented above will persist for two more decades without an accelerated pace.
 
 ## Dashboard
 
 **Page 1 — The Problem**
-![The Problem page](screenshots/page1-the-problem.png)
+![The Problem page](screenshots/the problem.png)
 
 **Page 2 — The Strategy**
-![The Strategy page](screenshots/page2-the-strategy.png)
+![The Strategy page](screenshots/the strategy.png)
 
 ## Stakeholder Engagement Matrix
 
-Five institutions — spanning government, industry, and civil society — mapped to Malaysia's National Planetary Health Action Plan (NPHAP) Key Result Areas. Influence and alignment are scored using a methodology adapted from Mendelow's Power-Interest framework, with each classification grounded in a documented public position or precedent rather than assumption. Full sourcing in [docs/sources.md](docs/sources.md).
+Five institutions — spanning government, industry and civil society are mapped to Malaysia's National Planetary Health Action Plan (NPHAP) Key Result Areas. Influence and alignment are scored using a methodology adapted from Mendelow's Power-Interest framework, with each classification grounded in a documented public position or precedent rather than assumption. Full sourcing in [docs/sources.md](docs/sources.md).
 
 ## Data Sources
 
